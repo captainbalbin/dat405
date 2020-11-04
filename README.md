@@ -1,5 +1,5 @@
 # DAT405 - Introduction to Data Science and AI
-
+*links:*
 [Canvas Course Page](https://chalmers.instructure.com/courses/10918)
 
 ## Lectures
