@@ -1,6 +1,8 @@
 # Lecture 1 - Introducing Data Science
 
-## Data Science Tools and Environments
+[Lecture Slides](https://chalmers.instructure.com/courses/10918/files/882780?module_item_id=125141)
+
+### Data Science Tools and Environments
 
 **Programming Languages**
 
