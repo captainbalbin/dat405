@@ -19,3 +19,5 @@ _links:_
 ## Assignments
 
 [Assignment 1](/assignments/assignment-1/notebook.ipynb)
+
+[Assignment 2](/assignments/assignmen-2/)
