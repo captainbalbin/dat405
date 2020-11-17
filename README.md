@@ -6,8 +6,16 @@ _links:_
 
 ## Lectures
 
-_TODO_
+[Lecture 1: Introducing Data Science](/lectures/lecture_1.md)
+
+[Lecture 2: Data Visualisation & Tools for Data Science and AI](/lectures/lecture-2.md)
+
+[Lecture 3: Regression](/lectures/lecture-3.md)
+
+[Lecture 4: Classification](/lectures/lecture-4.md)
+
+[Lecture 5: Clustering](/lectures/lecture-5.md)
 
 ## Assignments
 
-_TODO_
+[Assignment 1](/assignments/assignment-1/notebook.ipynb)
