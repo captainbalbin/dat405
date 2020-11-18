@@ -100,13 +100,17 @@ You don't know how many iteration you're gonna have, but the complexity of _one 
 
 ### Example of K-means Clustering
 
+
 Initial plotting of data:
+
 ![k-means](./img/k-means-example.png)
 
 Choosing initial centroids at random, with `k=4`:
+
 ![k-means](./img/k-means-ex2.png)
 
 After 5 number of iterations until the centroids don't move we have:
+
 ![k-means](./img/k-means-ex3.png)
 
 ### Issues with K-means
