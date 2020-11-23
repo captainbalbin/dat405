@@ -6,6 +6,12 @@ _links:_
 
 ## Lectures
 
+#### MIT Lectures
+
+[Lecture 12: Clustering](/lectures/mit-12-clustering.md)
+
+#### Chalmers Lectures
+
 [Lecture 1: Introducing Data Science](/lectures/lecture_1.md)
 
 [Lecture 2: Data Visualisation & Tools for Data Science and AI](/lectures/lecture-2.md)
@@ -19,3 +25,5 @@ _links:_
 ## Assignments
 
 [Assignment 1](/assignments/assignment-1/notebook.ipynb)
+
+[Assignment 2](/assignments/assignmen-2/)
