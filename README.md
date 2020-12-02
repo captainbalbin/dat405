@@ -40,10 +40,10 @@ _links:_
 
 [Assignment 4](/assignments/assignment-4/)
 
-[Assignment 5]()
+[Assignment 5]
 
-[Assignment 6]()
+[Assignment 6]
 
-[Assignment 7]()
+[Assignment 7]
 
-[Assignment 8]()
+[Assignment 8]
