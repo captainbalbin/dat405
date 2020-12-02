@@ -22,6 +22,14 @@ _links:_
 
 [Lecture 5: Clustering](/lectures/lecture-5.md)
 
+[Lecture 6: Clustering](/lectures/lecture-6.md)
+
+[Lecture 7: Clustering](/lectures/lecture-7.md)
+
+[Lecture 8: Clustering](/lectures/lecture-8.md)
+
+[Lecture 9: Clustering](/lectures/lecture-9.md)
+
 ## Assignments
 
 [Assignment 1](/assignments/assignment-1/notebook.ipynb)
