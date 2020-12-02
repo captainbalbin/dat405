@@ -22,13 +22,13 @@ _links:_
 
 [Lecture 5: Clustering](/lectures/lecture-5.md)
 
-[Lecture 6: Clustering](/lectures/lecture-6.md)
+[Lecture 6: Clustering Continuation](/lectures/lecture-6.md)
 
-[Lecture 7: Clustering](/lectures/lecture-7.md)
+[Lecture 7: Bayesian Statistics](/lectures/lecture-7.md)
 
-[Lecture 8: Clustering](/lectures/lecture-8.md)
+[Lecture 8: --](/lectures/lecture-8.md)
 
-[Lecture 9: Clustering](/lectures/lecture-9.md)
+[Lecture 9: Statistical Methods](/lectures/lecture-9.md)
 
 ## Assignments
 
