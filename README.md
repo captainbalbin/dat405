@@ -32,15 +32,15 @@ _links:_
 
 ## Assignments
 
-[Assignment 1](/assignments/assignment-1/notebook.ipynb)
+[Assignment 1: Introduction to Data Science and Python](/assignments/assignment-1/notebook.ipynb)
 
-[Assignment 2](/assignments/assignment-2/)
+[Assignment 2: Regression and Classification](/assignments/assignment-2/)
 
-[Assignment 3](/assignments/assignment-3/)
+[Assignment 3: Clustering](/assignments/assignment-3/)
 
-[Assignment 4](/assignments/assignment-4/)
+[Assignment 4: Spam Classification using Naïve Bayes](/assignments/assignment-4/)
 
-[Assignment 5]
+[Assignment 5: Reinforcement Learning]
 
 [Assignment 6]
 
