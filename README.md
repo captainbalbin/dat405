@@ -12,7 +12,7 @@ _links:_
 
 #### Chalmers Lectures
 
-[Lecture 1: Introducing Data Science](/lectures/lecture_1.md)
+[Lecture 1: Introducing Data Science](/lectures/lecture-1.md)
 
 [Lecture 2: Data Visualisation & Tools for Data Science and AI](/lectures/lecture-2.md)
 
@@ -21,6 +21,14 @@ _links:_
 [Lecture 4: Classification](/lectures/lecture-4.md)
 
 [Lecture 5: Clustering](/lectures/lecture-5.md)
+
+[Lecture 6: Clustering Continuation](/lectures/lecture-6.md)
+
+[Lecture 7: Bayesian Statistics](/lectures/lecture-7.md)
+
+[Lecture 8: --](/lectures/lecture-8.md)
+
+[Lecture 9: Statistical Methods](/lectures/lecture-9.md)
 
 ## Assignments
 
