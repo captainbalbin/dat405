@@ -34,4 +34,16 @@ _links:_
 
 [Assignment 1](/assignments/assignment-1/notebook.ipynb)
 
-[Assignment 2](/assignments/assignmen-2/)
+[Assignment 2](/assignments/assignment-2/)
+
+[Assignment 3](/assignments/assignment-3/)
+
+[Assignment 4](/assignments/assignment-4/)
+
+[Assignment 5]()
+
+[Assignment 6]()
+
+[Assignment 7]()
+
+[Assignment 8]()
