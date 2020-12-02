@@ -12,7 +12,7 @@ _links:_
 
 #### Chalmers Lectures
 
-[Lecture 1: Introducing Data Science](/lectures/lecture_1.md)
+[Lecture 1: Introducing Data Science](/lectures/lecture-1.md)
 
 [Lecture 2: Data Visualisation & Tools for Data Science and AI](/lectures/lecture-2.md)
 
