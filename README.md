@@ -26,7 +26,7 @@ _links:_
 
 [Lecture 7: Bayesian Statistics](/lectures/lecture-7.md)
 
-[Lecture 8: --](/lectures/lecture-8.md)
+[Lecture 8: --]
 
 [Lecture 9: Statistical Methods](/lectures/lecture-9.md)
 
