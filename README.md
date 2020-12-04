@@ -30,7 +30,7 @@ _links:_
 
 [Lecture 9: Statistical Methods](/lectures/lecture-9.md)
 
-[Lecture 9: Kernel Methods and Decision Trees](/lectures/lecture-10.md)
+[Lecture 10: Kernel Methods and Decision Trees](/lectures/lecture-10.md)
 
 ## Assignments
 
