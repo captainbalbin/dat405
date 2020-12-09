@@ -30,6 +30,8 @@ _links:_
 
 [Lecture 9: Statistical Methods](/lectures/lecture-9.md)
 
+[Lecture 10: Kernel Methods and Decision Trees](/lectures/lecture-10.md)
+
 ## Assignments
 
 [Assignment 1: Introduction to Data Science and Python](/assignments/assignment-1/notebook.ipynb)
