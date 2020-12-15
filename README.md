@@ -32,6 +32,10 @@ _links:_
 
 [Lecture 10: Kernel Methods and Decision Trees](/lectures/lecture-10.md)
 
+[Lecture 11: --]
+
+[Lecture 12: Machine Learning and Neural Networks](/lectures/lecture-12.md)
+
 ## Assignments
 
 [Assignment 1: Introduction to Data Science and Python](/assignments/assignment-1/notebook.ipynb)
@@ -42,9 +46,9 @@ _links:_
 
 [Assignment 4: Spam Classification using Naïve Bayes](/assignments/assignment-4/)
 
-[Assignment 5: Reinforcement Learning]
+[Assignment 5: Reinforcement Learning](/assignments/assignment-5)
 
-[Assignment 6]
+[Assignment 6: Ethics in AI](/assignments/assignment-6)
 
 [Assignment 7]
 
